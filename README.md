@@ -113,11 +113,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adityaa-Kumarr/Adityaa-Kumarr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityaa-Kumarr/Adityaa-Kumarr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityaa-Kumarr/Adityaa-Kumarr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adityaa-Kumarr/Adityaa-Kumarr/output/github-snake.svg" />
+</picture>
 
 </div>
-
-> ⚙️ **To enable:** Add the [`platane/snk`](https://github.com/platane/snk) GitHub Action — takes ~2 minutes to set up.
 
 ---
 
@@ -127,8 +129,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaadityaaa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityakrdev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contact.adiityaa.kumar@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.adiityaa.kumar@gmail.com)
 
 </div>
 
